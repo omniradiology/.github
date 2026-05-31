@@ -1,4 +1,7 @@
-## Hi there 👋
+
+
+<img width="1536" height="1024" alt="ChatGPT Image May 31, 2026, 12_37_17 AM" src="https://github.com/user-attachments/assets/54bd9296-4d79-49d6-82fb-3b474b3b92d0" />
+
 
 # OmniRadiology
 
