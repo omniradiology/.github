@@ -1,8 +1,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5835375b-bfac-4253-b49c-ed6d28cf7f96" alt="LawGraph Logo" width="120" />
+  <img src=""https://github.com/user-attachments/assets/b69ae815-20da-4ef6-9e62-ca3846630506" alt="LawGraph Logo" width="150" />
 </p>
+
 
 
 
