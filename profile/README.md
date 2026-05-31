@@ -17,4 +17,5 @@ Our goal is to bridge the gap between complex medical imaging infrastructure and
 
 For inquiries, collaborations, or security disclosures, please reach out to us at:
 📧 omerabdaslam@gmail.com
+
 📧 omniradiology@gmail.com
