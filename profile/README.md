@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6326948-bd67-4858-a21a-866d9dbdd908" alt="LawGraph Logo" width="600" />
+  <img src="https://github.com/user-attachments/assets/b6326948-bd67-4858-a21a-866d9dbdd908" alt="LawGraph Logo" width="500" />
 </p>
 
 
