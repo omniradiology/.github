@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b6326948-bd67-4858-a21a-866d9dbdd908" alt="LawGraph Logo" width="150" />
+  <img src="https://github.com/user-attachments/assets/b6326948-bd67-4858-a21a-866d9dbdd908" alt="LawGraph Logo" width="700" />
 </p>
 
 <img width="1324" height="380" alt="omnirad" src="https://github.com/user-attachments/assets/b6326948-bd67-4858-a21a-866d9dbdd908" />
